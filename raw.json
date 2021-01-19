@@ -8,7 +8,7 @@
 			"navigation": [
 				{
 					"title": "Home",
-					"href": "/surfboard"
+					"href": "/"
 				},
 				{ "title": "Raw Engineering", "href": "/raw" },
 				{ "title": "Contentstack", "href": "/contentstack" }
