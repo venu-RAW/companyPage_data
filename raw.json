@@ -52,10 +52,10 @@
 				"url": "https://images.contentstack.io/v3/assets/bltaacb6b0c9b693c2d/blt67d1684f23bec105/5e31575101e4f445b22f4bde/soc_logo.png"
 			},
 			"social_links": [
-				{ "link": "https://twitter.com/raweng" },
-				{ "link": "https://www.linkedin.com/company/raw-engineering" },
-				{ "link": "https://www.facebook.com/rawengineering/" },
-				{ "link": "https://www.instagram.com/raw.engineering/" }
+				{ "link": "https://twitter.com/raweng" , "title" : "Twitter"},
+				{ "link": "https://www.linkedin.com/company/raw-engineering" , "title" : "LinkedIn"},
+				{ "link": "https://www.facebook.com/rawengineering/",  "title" : "Facebook" },
+				{ "link": "https://www.instagram.com/raw.engineering/",  "title" : "Instagram" }
 			]
 		}
 	]
