@@ -42,7 +42,8 @@
 		{
 			"contact_mail": "info@surfboardventures.com",
 			"copyright_text": "Copyright © 2021 Surfboard Ventures. All Rights Reserved.",
-			"footer_links": {
+			"footer_links": [
+				{
 					"nav_1": [
 						{
 							"title": "Portfolio",
@@ -71,7 +72,8 @@
 							"href": "/contact-us"
 						}
 					]
-				},
+				}
+			],
 			"social_media_section": {
 				"social_media_icons": [
 					{
