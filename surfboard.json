@@ -1,5 +1,4 @@
 {
-	
 	"header": [
 		{
 			"logo": {
@@ -45,28 +44,34 @@
 			"copyright_text": "Copyright © 2021 Surfboard Ventures. All Rights Reserved.",
 			"footer_links": [
 				{
-					"title": "Portfolio",
-					"href": "/portfolio"
-				},
-				{
-					"title": "Academy",
-					"href": "/academy"
-				},
-				{
-					"title": "Events",
-					"href": "/events"
-				},
-				{
-					"title": "Gallery",
-					"href": "/gallery"
-				},
-				{
-					"title": "e-Certificates",
-					"href": "/e-certificates"
-				},
-				{
-					"title": "Contact Us",
-					"href": "/contact-us"
+					"nav1": [
+						{
+							"title": "Portfolio",
+							"href": "/portfolio"
+						},
+						{
+							"title": "Academy",
+							"href": "/academy"
+						},
+						{
+							"title": "Events",
+							"href": "/events"
+						}
+					],
+					"nav2": [
+						{
+							"title": "Gallery",
+							"href": "/gallery"
+						},
+						{
+							"title": "e-Certificates",
+							"href": "/e-certificates"
+						},
+						{
+							"title": "Contact Us",
+							"href": "/contact-us"
+						}
+					]
 				}
 			],
 			"social_media_section": {
@@ -100,5 +105,4 @@
 			}
 		}
 	]
-	
 }
