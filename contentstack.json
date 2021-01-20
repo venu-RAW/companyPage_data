@@ -1,5 +1,4 @@
 {
-	
 	"header": [
 		{
 			"logo": {
@@ -55,13 +54,12 @@
 				{
 					"url": "https://images.contentstack.io/v3/assets/blt137524604e62b5cb/blt2c4673614dbdd576/5ed9e494047b8c2b9c260498/Twitter.svg",
 					"title": "Twitter",
-					"link": "https://twitter.com/contentstack",
+					"link": "https://twitter.com/contentstack"
 				},
 				{
 					"url": "https://images.contentstack.io/v3/assets/blt137524604e62b5cb/blt002dda4326b06010/5ed9e48098e62f38ec84cd2e/Linkedin.svg",
 					"title": "LinkedIn",
 					"link": "https://www.linkedin.com/company/contentstack"
-					
 				},
 				{
 					"url": "https://images.contentstack.io/v3/assets/blt137524604e62b5cb/blt25d1537d8ec8095f/5ed9e468047b8c2b9c260494/Facebook.svg",
@@ -188,5 +186,4 @@
 			]
 		}
 	]
-	
 }
