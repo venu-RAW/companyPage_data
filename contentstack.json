@@ -53,18 +53,29 @@
 			"footer_logo": "https://images.contentstack.io/v3/assets/bltc5a09bf374882538/blt954cedac0397edba/5f1a2be1d0350a5e2a2fde71/contentstack-footer-logo.png",
 			"social_links": [
 				{
-					"link": "https://twitter.com/contentstack"
+					"url": "https://images.contentstack.io/v3/assets/blt137524604e62b5cb/blt2c4673614dbdd576/5ed9e494047b8c2b9c260498/Twitter.svg",
+					"title": "Twitter",
+					"link": "https://twitter.com/contentstack",
 				},
 				{
+					"url": "https://images.contentstack.io/v3/assets/blt137524604e62b5cb/blt002dda4326b06010/5ed9e48098e62f38ec84cd2e/Linkedin.svg",
+					"title": "LinkedIn",
 					"link": "https://www.linkedin.com/company/contentstack"
+					
 				},
 				{
+					"url": "https://images.contentstack.io/v3/assets/blt137524604e62b5cb/blt25d1537d8ec8095f/5ed9e468047b8c2b9c260494/Facebook.svg",
+					"title": "Facebook",
 					"link": "https://www.facebook.com/contentstack"
 				},
 				{
+					"url": "https://images.contentstack.io/v3/assets/blt137524604e62b5cb/bltf60ced1d8b14cad7/5eeb3a54688c1c62a49ae583/Youtube.svg",
+					"title": "Youtube",
 					"link": "https://www.youtube.com/contentstack"
 				},
 				{
+					"url": "https://images.contentstack.io/v3/assets/blt137524604e62b5cb/bltdfe4d4dd917540a1/5eeb4f89146cc4629e1ad3fd/Instagram.svg",
+					"title": "Instagram",
 					"link": "https://github.com/contentstack"
 				}
 			],
